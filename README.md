@@ -1,2 +1,2 @@
-# BigDataProy
-Repositorio del código fuente para el Frontend (Python + Flask)
+# BigDataApp
+Repositorio del código fuente para el proyecto de BigData
